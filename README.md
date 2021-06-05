@@ -5,7 +5,7 @@
 This amazing Workout-Tracker is an innovative app that provide the user many options to reach-out those goals when it come to fitness. The Workout-Tracker provides the user the ability to log many exercises in a workout. The user can keep track of the reps, wheight, name, sets, and time for each exercise. Also, the Workout-Tracker keeps track of distance when the exercise is cardio and the user can go back to view the history of workouts. 
 
 
-[Heroku app here](https://powerful-mesa-36166.herokuapp.com/?id=60bac51b308ee40015d64fa2)
+[Heroku app  click here](https://powerful-mesa-36166.herokuapp.com/?id=60bac51b308ee40015d64fa2)
 
 ![trackerhome](https://user-images.githubusercontent.com/72178042/120852852-618ad780-c540-11eb-9ad0-c0dad72189f8.png)
 
